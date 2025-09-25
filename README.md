@@ -15,9 +15,9 @@ This project visualizes live aircraft positions on a 3D globe using data from th
 - Real-time flight tracking with live latitude, longitude, altitude, and velocity data.
 - 3D globe with dynamic plane visualization using low-overhead 2D sprites.
 - Smooth interpolation of plane movement for realistic motion.
-- Interactive flight search with plane highlighting and flight info HUD.
 - Modular C# architecture with separate scripts for telemetry fetching, visualization, and UI.
 - Performance optimizations for handling hundreds of simultaneous flights.
+- In progress: flight search with plane highlighting and flight info HUD.
 
 ---
 
