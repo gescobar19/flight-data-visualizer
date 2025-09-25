@@ -21,6 +21,6 @@ This project visualizes live aircraft positions on a 3D globe using data from th
 
 ---
 
-## Screenshots
+## Screenshot
 
-![Flight Visualizer Screenshot](screenshots/screenshot1.png)  
+![Flight Visualizer Screenshot](GlobeData.png)  
