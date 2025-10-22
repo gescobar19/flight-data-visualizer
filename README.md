@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project visualizes live aircraft positions on a 3D globe using data from the [OpenSky Network API](https://opensky-network.org/). It demonstrates real-time telemetry integration, interactive visualization, and software engineering best practices in Unity and C#.
+This project visualizes live aircraft positions on a 3D globe using data from the [OpenSky Network API](https://opensky-network.org/). It demonstrates real-time telemetry integration and interactive visualization in Unity and C#.
 
 ---
 
